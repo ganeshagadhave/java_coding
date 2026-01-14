@@ -17,7 +17,7 @@ public class CsvFileProcessor {
 
  /* public static void main(String[] args) throws IOException {
     UserCsvProcess();
-    purchaseCsvProcess();
+    purchaseCsvProcess(); change
   }*/
 
   public static List<User> UserCsvProcess() {
